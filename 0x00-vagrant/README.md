@@ -1,0 +1,1 @@
+_This is the output from **uname** in my intranet console_
